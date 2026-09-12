@@ -1,14 +1,3 @@
-// ──────────────────────────────────────────────────
-// Link        https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true
-// Problem     Compare the Triplets
-// Difficulty  Easy
-// Subdomain   Warmup
-// Platform    HackerRank
-// Language    java8
-// Status      Accepted
-// Submitted   2026-09-08, 08:28 p.m.
-// ──────────────────────────────────────────────────
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
