@@ -1,15 +1,3 @@
-@@ -0,0 +1,77 @@
-// ──────────────────────────────────────────────────
-// Link        https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true
-// Problem     Diagonal Difference
-// Difficulty  Easy
-// Subdomain   Warmup
-// Platform    HackerRank
-// Language    java8
-// Status      Accepted
-// Submitted   2026-09-08, 08:51 p.m.
-// ──────────────────────────────────────────────────
-
 import java.io.*;
 import java.math.*;
 import java.security.*;
